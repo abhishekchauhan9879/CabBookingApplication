@@ -7,5 +7,5 @@
 4. Users can search and select one from multiple available rides on a route with the same source and destination based on the nearest to the user
 
 <h3 align="left">Languages and Tools Used:</h3>
-<p align="left"> <img src="https://user-images.githubusercontent.com/59190615/189988755-f3ddd767-b394-43bb-a618-d02f21ea99af.png" alt="c" width="40" height="40"/> </a>
+<p align="left"> <img src="https://user-images.githubusercontent.com/59190615/189988755-f3ddd767-b394-43bb-a618-d02f21ea99af.png" alt="c" width="80" height="80"/> </a>
 
