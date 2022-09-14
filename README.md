@@ -1,6 +1,6 @@
-## CabBookingApplication
+# Cab Booking Application <img src="https://www.pngkey.com/png/full/411-4110536_lightning-mcqueen-cartoon-kippah-damascene-clip-art-cartoon.png" alt="c" width="50" height="40"/>
 
-#Features:
+### Features:
 1. The application allows users to book rides on a route.
 2. Users can register themself and make changes to their details.
 3. Driving partner can onboard on the system with the vehicle details
